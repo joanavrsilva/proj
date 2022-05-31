@@ -1,6 +1,6 @@
 # 200 Art Gallery
 
-Unfortunately I didn't have time to finish the project, the goal was to create a website where it was possible to buy paintings. The code used in this project was from the I Think Therefore I Blog project and from the Boutique Ado Project of the Code Institute
+Unfortunately I didn't have time to finish the project, the goal was to create a website where it was possible to buy paintings. The code used in this project was from the I Think Therefore I Blog project and from the Boutique Ado Project of the Code Institute. The readme file was inspired in the Love Running Project.
 
 ![Responsive Mockup](...)
 
@@ -44,7 +44,7 @@ The website link can be found [here](...)
 
 - __Gallery__
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery](...)
 
 - __The Sign Up Page__
 
