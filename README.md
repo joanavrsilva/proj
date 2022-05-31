@@ -1,5 +1,6 @@
 # 200 Art Gallery
 
+Unfortunately I didn't have time to finish the project, the goal was to create a website where it was possible to buy paintings. The code used in this project was from the I Think Therefore I Blog project and from the Boutique Ado Project of the Code Institute
 
 ![Responsive Mockup](...)
 
